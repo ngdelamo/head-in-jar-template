@@ -1,4 +1,4 @@
-head-in-jar-template
+Head-In-Jar-Template
 ====================
 
-An SVG template with a jar for creating Futurama-like head-in-jar drawings
+An SVG with a Futurama-like jar for creating head-in-jar drawings.
